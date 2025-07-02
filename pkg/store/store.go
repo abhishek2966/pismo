@@ -1,6 +1,6 @@
 package store
 
-import "github.com/abhishek2966/pismo/pkg/model"
+import "github.com/abhishek2966/pismo/v2/pkg/model"
 
 // Storer interface can be implemented by various store systems like
 // inmemory, postgres, mongodb.

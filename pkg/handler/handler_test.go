@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/abhishek2966/pismo/pkg/model"
+	"github.com/abhishek2966/pismo/v2/pkg/model"
 )
 
 // mockStrore implements store.Storer

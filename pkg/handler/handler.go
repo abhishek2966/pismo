@@ -8,8 +8,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/abhishek2966/pismo/pkg/model"
-	"github.com/abhishek2966/pismo/pkg/store"
+	"github.com/abhishek2966/pismo/v2/pkg/model"
+	"github.com/abhishek2966/pismo/v2/pkg/store"
 )
 
 type handler struct {
