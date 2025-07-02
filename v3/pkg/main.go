@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/abhishek2966/pismo/v2/pkg/handler"
-	"github.com/abhishek2966/pismo/v2/pkg/store/inmemory"
+	"github.com/abhishek2966/pismo/v3/pkg/handler"
+	"github.com/abhishek2966/pismo/v3/pkg/store/inmemory"
 )
 
 func main() {
